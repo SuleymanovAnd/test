@@ -1,3 +1,5 @@
 new test on new branch and stash
 add somthq
 add stash 1
+add stahs 0
+
